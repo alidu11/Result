@@ -122,12 +122,28 @@ body{
     padding-left: 55px; 
 }
 
+.inputs .reaction p span{
+    color: hsl(0, 100%, 67%);
+}
+
+.inputs .reaction h4 span{
+    color: hsl(241, 100%, 89%);
+}
+
 .inputs .memory{
     background-color: hsla(39, 80%, 90%, 1);
 }
 
 .inputs .memory h4{
     padding-left: 58px;
+}
+
+.inputs .memory p span{
+    color: hsl(39, 100%, 56%);
+}
+
+.inputs .memory h4 span{
+    color: hsl(241, 100%, 89%);
 }
 
 .inputs .verbal{
@@ -138,12 +154,28 @@ body{
     padding-left: 66px;
 }
 
+.inputs .verbal p span{
+    color: hsl(166, 100%, 37%);
+}
+
+.inputs .verbal h4 span{
+    color: hsl(241, 100%, 89%);
+}
+
 .inputs .visual{
     background-color: hsla(234, 50%, 90%, 1);
 }
 
 .inputs .visual h4{
     padding-left: 67px;
+}
+
+.inputs .visual p span{
+    color: hsl(234, 85%, 45%);
+}
+
+.inputs .visual h4 span{
+    color: hsl(241, 100%, 89%);
 }
 
 input{
